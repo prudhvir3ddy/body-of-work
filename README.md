@@ -1,2 +1,5 @@
 # body-of-work
-Public resume of prudhvi reddy 
+
+Public resume of Prudhvi Reddy 
+
+- Deliveroo
