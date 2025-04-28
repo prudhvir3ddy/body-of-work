@@ -6,8 +6,22 @@ December 2023 - Present
 
 - I am the engineer who focused on _Getting things done_ and helped the organisation move faster with good-quality work.
 - I started as an Android engineer, but eventually had to do full-stack ( Android + iOS + React + Ruby + Golang + AWS ) as we are a small team but with a lot of product work. 
-- I'm the only person in the org who made decent contributions on all 6 public-facing apps - restaurant, rider, and consumer ( Android + iOS )
+- I'm the only person in the org who made decent contributions on all 5 public-facing apps - restaurant ( Android), rider, and consumer ( Android + iOS )
 
+
+### Features delivered 
+
+- Export receipt generation logic from on-device to backend ( golang + Restaurant Android )
+- Self-serve cancellation feature in restaurants ( Restaurant Android )
+- Ability to substitute items after the order is placed (Restaurant Android + Consumer iOS + Consumer Android )
+- Ability for riders to scan the receipts using OCR to cut down the number of wrong orders ( Rider iOS )
+- Launched bundles to the consumers globally ( Involved a lot of basket and add to cart calculations )
+
+### Stability work 
+
+<img width="683" alt="Screenshot 2025-04-28 at 9 59 31 PM" src="https://github.com/user-attachments/assets/3a823069-6626-4f0f-ba27-f3a4680455df" />
+
+- Improved crash-free sessions metrics of restaurants by ~3%, leading to 99.98% 
 
 ### No one asked me to do
 
