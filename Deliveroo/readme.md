@@ -2,16 +2,16 @@
 
 December 2023 - Present
 
-> Note: This is probably just 60% of my work. A lot of things can't be revealed outside.
+> Note: This is probably just 60% of my work. A lot of things can't be revealed outside + didn't mentioned low impact work which also has big quantity. 
 
 ### Summary 
 
 - I am the engineer who focused on _Getting things done_ and helped the organisation move faster with good-quality work.
 - I started as an Android engineer, but eventually had to do full-stack ( Android + iOS + React + Ruby + Golang + AWS ) as we are a small team but with a lot of product work.
 
-> weird flex alert
+ weird flex alert
 
-- I'm the only person in the org who made decent contributions on all 5 public-facing apps - restaurant ( Android), rider, and consumer ( Android + iOS ) at the current state of the org. 
+- I'm the only person in the org who made decent contributions on all 5 public-facing apps - restaurant ( Android), rider, and consumer ( Android + iOS ) at the **current state of the org**. 
 
 
 ### Features delivered 
@@ -29,13 +29,17 @@ Read more about the experience [here](https://riders.deliveroo.co.uk/en/support/
 
 - Launched bundles to the consumers globally ( Involved a lot of basket and add to cart calculations with existing offers )
 
-### Stability work 
+
+### No one asked me to do
+
+## Stability work 
 
 <img width="683" alt="Screenshot 2025-04-28 at 9 59 31 PM" src="https://github.com/user-attachments/assets/3a823069-6626-4f0f-ba27-f3a4680455df" />
 
-- Improved crash-free sessions metrics of restaurants by ~3%, leading to 99.98% 
+- Improved crash-free sessions metrics of restaurants by ~3%, leading to 99.98%
+- My work on baseline profiles which decreased ~30% of the app startup time got highlighted in company annual Android-onsite event to all the other apps 
 
-### No one asked me to do
+## Against to rewriting
 
 When I joined the restaurant team, everyone was discussing how they wanted to do a full rewrite of the app, as the current app is very old and not scalable, and there's a proposal to leadership as well.
 
@@ -49,5 +53,8 @@ These are things which I did
 - Introduced coroutine support and deprecated the RxJava foundation
 - Deprecated a lot of the Base* class and wrote its composition alternatives
 
-All these wouldn't be possible without the help of two other amazing engineers in the team who believed and supported my decisions
+All these wouldn't be possible without the help of two other amazing engineers in the team who believed and supported my decisions. 
 
+## Enable Ai reviews
+
+- Did the platform work required to enable the Ai codereviews for all the repositories in the org. It will be first one to review your work saving humans time for small mistakes on the PRs
