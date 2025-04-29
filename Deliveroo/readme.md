@@ -2,7 +2,8 @@
 
 December 2023 - Present
 
-> Note: This is probably just 60% of my work. A lot of things can't be revealed outside + didn't mentioned low impact work which also has big quantity. 
+> [!NOTE]
+> This is probably just 60% of my work. A lot of things can't be revealed outside + didn't mentioned low impact work which also has big quantity. 
 
 ### Summary 
 
