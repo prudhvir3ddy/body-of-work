@@ -7,17 +7,27 @@ December 2023 - Present
 ### Summary 
 
 - I am the engineer who focused on _Getting things done_ and helped the organisation move faster with good-quality work.
-- I started as an Android engineer, but eventually had to do full-stack ( Android + iOS + React + Ruby + Golang + AWS ) as we are a small team but with a lot of product work. 
-- I'm the only person in the org who made decent contributions on all 5 public-facing apps - restaurant ( Android), rider, and consumer ( Android + iOS )
+- I started as an Android engineer, but eventually had to do full-stack ( Android + iOS + React + Ruby + Golang + AWS ) as we are a small team but with a lot of product work.
+
+> weird flex alert
+
+- I'm the only person in the org who made decent contributions on all 5 public-facing apps - restaurant ( Android), rider, and consumer ( Android + iOS ) at the current state of the org. 
 
 
 ### Features delivered 
 
-- Export receipt generation logic from on-device to backend ( golang + Restaurant Android )
+- Export receipt generation logic from on-device to backend for faster iteration on changes ( golang + Restaurant Android )
+
 - Self-serve cancellation feature in restaurants ( Restaurant Android )
 - Ability to substitute items after the order is placed (Restaurant Android + Consumer iOS + Consumer Android )
+
+Read more about the experience here [here](https://help.deliveroo.com/en/articles/10156329-item-substitutions) 
+
 - Ability for riders to scan the receipts using OCR to cut down the number of wrong orders ( Rider iOS )
-- Launched bundles to the consumers globally ( Involved a lot of basket and add to cart calculations )
+
+Read more about the experience [here](https://riders.deliveroo.co.uk/en/support/orders/how-do-i-scan-the-order-receipt) 
+
+- Launched bundles to the consumers globally ( Involved a lot of basket and add to cart calculations with existing offers )
 
 ### Stability work 
 
