@@ -2,6 +2,8 @@
 
 December 2023 - Present
 
+> Note: This is probably just 60% of my work. A lot of things can't be revealed outside.
+
 ### Summary 
 
 - I am the engineer who focused on _Getting things done_ and helped the organisation move faster with good-quality work.
