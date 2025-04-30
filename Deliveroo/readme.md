@@ -3,12 +3,12 @@
 December 2023 - Present
 
 > [!NOTE]
-> This is probably just 60% of my work. A lot of things can't be revealed outside + didn't mentioned low impact work which also has big quantity. 
+> This is probably just 60% of my work. A lot of things can't be revealed outside, + didn't mention low-impact work, which also has a big quantity. 
 
 ### Summary 
 
 - I am the engineer who focused on _Getting things done_ and helped the organisation move faster with good-quality work.
-- I started as an Android engineer, but eventually had to do full-stack ( Android + iOS + React + Ruby + Golang + AWS ) as we are a small team but with a lot of product work.
+- I started as an Android engineer, but eventually had to do full-stack ( Android + iOS + React + Ruby + Golang + AWS ) as we are a small team, but with a lot of product work, and I happen to realise I'm a fast learner with new tech stacks
 
  Weird flex alert
 
