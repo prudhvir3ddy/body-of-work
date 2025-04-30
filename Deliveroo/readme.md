@@ -12,7 +12,7 @@ December 2023 - Present
 
  Weird flex alert
 
-I'm the only person in the organisation who made decent contributions to all five public-facing apps—restaurant ( Android), rider, and consumer ( Android + iOS ) — at the organisation's current state. 
+I'm the only mobile engineer in the organisation who made decent contributions to all five public-facing apps—restaurant ( Android), rider, and consumer ( Android + iOS ) — at the organisation's current state. 
 
 
 ### Features delivered 
