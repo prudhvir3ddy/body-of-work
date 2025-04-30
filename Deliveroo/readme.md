@@ -10,12 +10,14 @@ December 2023 - Present
 - I am the engineer who focused on _Getting things done_ and helped the organisation move faster with good-quality work.
 - I started as an Android engineer, but eventually had to do full-stack ( Android + iOS + React + Ruby + Golang + AWS ) as we are a small team but with a lot of product work.
 
- weird flex alert
+ Weird flex alert
 
-- I'm the only person in the org who made decent contributions on all 5 public-facing apps - restaurant ( Android), rider, and consumer ( Android + iOS ) at the **current state of the org**. 
+I'm the only person in the organisation who made decent contributions to all five public-facing apps—restaurant ( Android), rider, and consumer ( Android + iOS ) — at the organisation's current state. 
 
 
 ### Features delivered 
+
+> For feature delivery, how I did matters more than what I did
 
 - Export receipt generation logic from on-device to backend for faster iteration on changes ( golang + Restaurant Android )
 
