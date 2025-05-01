@@ -8,7 +8,7 @@ December 2023 - Present
 ### Summary 
 
 - I am the engineer who focused on _Getting things done_ and helped the organisation move faster with good-quality work.
-- I started as an Android engineer, but eventually had to do full-stack ( Android + iOS + React + Ruby + Golang + AWS ) as we are a small team, but with a lot of product work, and I happen to realise I'm a fast learner with new tech stacks
+- I started as an Android engineer, but eventually did full-stack ( Android + iOS + React + Ruby + Golang + AWS ) as we are a small team, but with a lot of product work, and I happen to realise I'm a fast learner with new tech stacks
 
  Weird flex alert
 
