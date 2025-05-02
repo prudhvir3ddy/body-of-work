@@ -51,7 +51,7 @@ I'm not a fan of rewrites. I took a bet and, in my free time ( after delivering 
 These are things which I did 
 
 - Introduce Jetpack Compose to the codebase with the org's design system support, which not only supported the refactoring but also improved developer productivity
-- A lot of Android Lint checks to avoid mistakes made previously
+- A lot of custom Android Lint checks to avoid mistakes made previously ( uast and psi are way too powerful than i thought )
 - Migrated the codebase to Dagger Hilt, which cut down ~50% of boilerplate code in the codebase
 - Introduced coroutine support and deprecated the RxJava foundation
 - Deprecated a lot of the Base* class and wrote its composition alternatives
