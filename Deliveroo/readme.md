@@ -23,12 +23,10 @@ I'm the only mobile engineer in the organisation who made decent contributions t
 
 - Self-serve cancellation feature in restaurants ( Restaurant Android )
 - Ability to substitute items after the order is placed (Restaurant Android + Consumer iOS + Consumer Android )
-
-Read more about the experience here [here](https://help.deliveroo.com/en/articles/10156329-item-substitutions) 
+  - Read more about the experience here [here](https://help.deliveroo.com/en/articles/10156329-item-substitutions) 
 
 - Ability for riders to scan the receipts using OCR to cut down the number of wrong orders ( Rider iOS )
-
-Read more about the experience [here](https://riders.deliveroo.co.uk/en/support/orders/how-do-i-scan-the-order-receipt) 
+  - Read more about the experience [here](https://riders.deliveroo.co.uk/en/support/orders/how-do-i-scan-the-order-receipt) 
 
 - Launched bundles to the consumers globally ( Involved a lot of basket and add to cart calculations with existing offers )
 
